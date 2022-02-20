@@ -1,0 +1,28 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio.conf.MiniProject.js"
+  },
+  "author": "",
+  "license": "ISC",
+
+  "dependencies": {
+    "selenium-standalone": "^6.13.0",
+    "wdio": "^5.1.0",
+    "jimp": "^0.16.1",
+    "path": "^0.12.7",
+    "robotjs": "^0.6.0",
+    "screenshot-desktop": "^1.12.3",
+    "webdriverio": "^5.10.4"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatla-rajani/MiniProject1.git"
+  }
+  
+}
+
