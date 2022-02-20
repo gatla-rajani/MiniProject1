@@ -1,6 +1,6 @@
 # Selenium WebdriverIO (JS) with Mocha framework example test
 
-This is a repo containing a sample test using vanilla Selenium Webdriver JS. This just automates a simple Todo app where a todo item is added to the list and marked as completed.
+This is a repo containing a sample test using Selenium WebdriverIO (JS) with Mocha framework example test.
 
 ## Install dependencies
 
